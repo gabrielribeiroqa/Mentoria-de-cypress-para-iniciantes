@@ -1,0 +1,5 @@
+{
+"defaultCommandTimeout": 5000,
+"trashAssetsBeforeRuns": false,
+"baseUrl":"https://qautomatizado-db08c.web.app/"
+}
